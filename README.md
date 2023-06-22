@@ -14,7 +14,14 @@ HTML
 CSS
 Javascript
 
-## Links
+## Webpage link (URL)
 
-## Homepage Snapshot
+https://saikoub.github.io/Password-Generator/
 
+## GitHub repository link
+
+https://github.com/SaikouB/Password-Generator
+
+## Webpage screenshot
+
+![Alt text](image.png)
