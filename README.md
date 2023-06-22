@@ -16,3 +16,6 @@ Javascript
 
 ## Links
 
+
+## Homepage Snapshot
+
